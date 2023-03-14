@@ -39,7 +39,8 @@ With the aim of optimizing the maintenance procedure, XGBoost is employed as pre
 ## 🧱 Structure?
 To protect the confidentality of the data for my customer and avoid violating the agreement, I decide not to make the raw data and cleaned data public here.
 This repository contains 3 folders:
-- **src**, including: 
+- **src**, including:
+    + main-code (data cleaning and modelling codes)
 - **deliverables**, including:
     + project-summary
     > **Note**  
